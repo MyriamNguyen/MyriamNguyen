@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54df2475-7470-443c-8ac3-6a33e5bf3dc4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ahIZJtxFjNOOJYoFo2z4yM5wIM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sports.html" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54df2475-7470-443c-8ac3-6a33e5bf3dc4" name="Default Changelist" comment="" />
+      <created>1587181452650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587181452650</updated>
+      <workItem from="1587181454430" duration="2441000" />
+      <workItem from="1587246733875" duration="9435000" />
+      <workItem from="1587353082984" duration="3261000" />
+      <workItem from="1587410258421" duration="7470000" />
+      <workItem from="1587499570987" duration="3711000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="577" y="262" width="503" height="529" key="#Notifications" timestamp="1587269432713">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="577" y="262" width="503" height="529" key="#Notifications/-1366.132.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1587269432713" />
+    <state x="421" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587271166594">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="421" y="210" key="#com.intellij.fileTypes.FileTypeChooser/-1366.132.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1587271166594" />
+    <state x="447" y="126" key="FileChooserDialogImpl" timestamp="1587500831101">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="447" y="126" key="FileChooserDialogImpl/-1366.132.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1587500831101" />
+  </component>
+</project>

@@ -23,7 +23,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sports.html" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -40,6 +41,9 @@
       <workItem from="1587353082984" duration="3261000" />
       <workItem from="1587410258421" duration="7470000" />
       <workItem from="1587499570987" duration="3711000" />
+      <workItem from="1587594128620" duration="1008000" />
+      <workItem from="1587599266008" duration="1334000" />
+      <workItem from="1587601466177" duration="4578000" />
     </task>
     <servers />
   </component>
@@ -51,13 +55,13 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="577" y="262" width="503" height="529" key="#Notifications/-1366.132.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1587269432713" />
-    <state x="421" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587271166594">
+    <state x="421" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587603076356">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="421" y="210" key="#com.intellij.fileTypes.FileTypeChooser/-1366.132.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1587271166594" />
-    <state x="447" y="126" key="FileChooserDialogImpl" timestamp="1587500831101">
+    <state x="421" y="210" key="#com.intellij.fileTypes.FileTypeChooser/-1366.132.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1587603076356" />
+    <state x="447" y="126" key="FileChooserDialogImpl" timestamp="1587601455547">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="447" y="126" key="FileChooserDialogImpl/-1366.132.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1587500831101" />
+    <state x="447" y="126" key="FileChooserDialogImpl/-1366.132.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1587601455547" />
   </component>
 </project>

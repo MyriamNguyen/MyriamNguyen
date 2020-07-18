@@ -1,0 +1,68 @@
+/* style.css */
+/* Myriam Nguyen */
+/* 29-04-2020 */
+body{
+    width:900px;
+    margin-left: auto;
+    margin-right:auto;
+    text-align: center;
+}
+
+.container{
+    background-color: pink;
+}
+h1, h2{
+    color:#ffffff;
+    text-align:center;
+}
+h1{
+    font-size:36px;
+}
+h2{
+    font-size:24px;
+}
+
+
+p{
+    font-size:14px;
+    text-align:justify;
+}
+
+a{
+    color:lightskyblue;
+    text-decoration:none;
+}
+a:visited{
+    color:darkblue;
+}
+a:hover{
+    text-decoration:underline;
+}
+
+
+img {
+    width: 300px;
+    border-radius: 20px;
+}
+img:hover{
+    box-shadow:10px 10px #bbbbbb;
+}
+
+
+td, th {
+    border: 1px solid black;
+}
+
+
+ul, li a{
+    font-size:20px;
+    color:pink;
+}
+
+.belleImage{
+border: 1px solid #ddd;
+    border-radius: 4px;
+}
+.belleImage:hover{
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}

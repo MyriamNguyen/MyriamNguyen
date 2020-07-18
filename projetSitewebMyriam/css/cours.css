@@ -1,0 +1,143 @@
+/* style.css
+Myriam Nguyen
+03-07-2020
+ */
+*{
+    text-decoration:none;
+    list-style:none;
+    box-sizing:border-box;
+    color:#000000;
+}
+body{
+    margin:auto;
+}
+
+.colorNavbar{
+    background-color:#ebebeb;
+    padding-bottom:3rem;
+}
+
+nav ul{
+    list-style:none;
+    width:75%;
+    margin:auto;
+}
+
+nav ul li{
+    width:20%;
+    float:left;
+    text-align:center;
+}
+
+#banniere{
+    background-image:url("../img/banniere2.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding-top: 20rem;
+    padding-bottom:15rem;
+    width:100%;
+
+    background-attachment: fixed;
+    background-position: center;
+    min-height: 500px;
+}
+
+@font-face{
+    font-family:leelawadee;
+    src:url("../font/leelawadee.ttf");
+}
+
+h1{
+    font-family:Leelawadee;
+    font-size:2.5rem;
+    color:#ffffff;
+    padding-left:7rem;
+    padding-top:5rem;
+}
+
+p{
+    color:#ffffff;
+    font-size:2rem;
+    padding-top:5rem;
+}
+
+#img2{
+    background-image:url("../img/wallpaper3.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    padding-bottom:10rem;
+}
+
+.imgPresentation{
+    padding-top:5rem;
+}
+
+section.bg-couleur {
+    background: #000000;
+    padding-bottom: 5rem;
+}
+
+.slider{
+    width:50rem;
+    overflow: hidden;
+    margin:5rem auto;
+}
+
+.slide{
+    float:left;
+}
+
+.slides{
+    width: calc(400px * 4);
+    animation: slide 20s infinite;
+}
+
+@keyframes slide{
+    0%{
+        transform: translateX(0);
+    }
+    30%{
+        transform: translateX(-400px);
+    }
+    50%{
+        transform: translateX(-800px);
+    }
+    70%{
+        transform: translateX(-1200px);
+    }
+    100%{
+        transform: translateX(0);
+    }
+
+}
+
+h4{
+    color:#000000;
+}
+
+.footer {
+    width: 100%;
+    background-color: #cfcfcf;
+    color: #000000;
+    padding-bottom: 3rem;
+    padding-left: 5rem;
+}
+
+.about{
+    color:#000000;
+    font-size:1rem;
+}
+
+.text{
+    color:#000000;
+    font-size:1rem;
+}
+
+.fa-facebook-square{
+    color:#000000;
+}
+
+.small{
+    font-size:1rem;
+    color:black;
+    text-align:center;
